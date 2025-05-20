@@ -19,6 +19,7 @@
     </a>
 </p>
 1. **Upgrade & Update:**
+
    ```bash
    sudo apt-get update && sudo apt-get upgrade -y
    ```
