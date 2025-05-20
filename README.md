@@ -21,7 +21,7 @@
 1. **Upgrade & Update:**
 
    ```bash
-   sudo apt-get update && sudo apt-get upgrade -y
+    sudo apt-get update && sudo apt-get upgrade -y
    ```
 
 2. **Install Required Packages:**
